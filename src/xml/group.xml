@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE group SYSTEM "F:\Documents\GitHub\NC2\src\xml\group.dtd">
+
+<group>
+    <student firstname="Dabudai" lastname="Labydaev" groupnumber="1">
+        <subject title="Geology" mark="5"/>
+        <subject title="Math" mark="4"/>
+        <subject title="Physics" mark="4"/>
+        <average>4.3333335</average>
+    </student>
+    <student firstname="Ivan" lastname="Okayanov" groupnumber="1">
+        <subject title="Geology" mark="3"/>
+        <subject title="Math" mark="4"/>
+        <subject title="Physics" mark="4"/>
+        <average>3.6666667</average>
+    </student>
+</group>
